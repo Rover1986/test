@@ -1,5 +1,24 @@
 #EXTM3U
-
+#EXTINF:-1,OSN KIDS HD
+http://hbox.cdnss.com/aga9y9/9hbkjg/1002.ts
+#EXTINF:-1,OSN MOVIES HD
+http://hbox.cdnss.com/aga9y9/9hbkjg/1003.ts
+#EXTINF:-1,OSN YAHALA DRAMA HD
+http://hbox.cdnss.com/aga9y9/9hbkjg/1004.ts
+#EXTINF:-1,OSN MOVIES DRAMA +2
+http://hbox.cdnss.com/aga9y9/9hbkjg/1005.ts
+#EXTINF:-1,OSN YAHALA HD +2
+http://hbox.cdnss.com/aga9y9/9hbkjg/1006.ts
+#EXTINF:-1,OSN MOVIES DRAMA HD
+http://hbox.cdnss.com/aga9y9/9hbkjg/1007.ts
+#EXTINF:-1,OSN MOVIES +2 HD
+http://hbox.cdnss.com/aga9y9/9hbkjg/1009.ts
+#EXTINF:-1,OSN MOVIES HD
+http://hbox.cdnss.com/aga9y9/9hbkjg/1010.ts
+#EXTINF:-1,OSN YAHALA HD
+http://hbox.cdnss.com/aga9y9/9hbkjg/1012.ts
+#EXTINF:-1,OSN MOVIES PREMIERE
+http://hbox.cdnss.com/aga9y9/9hbkjg/1013.ts
 ‪#‎EXTINF‬:0,OSN-First+2
 http://148.251.78.34:8000/2.ch?u=dummy:p=1234
 #EXTINF:0,OSN-First-HD
