@@ -1,19 +1,100 @@
 #EXTM3U
-#EXTINF:0,MBC 1
-http://89.248.171.141/ts60/ch1244/index.m3u8?v=1548652116
-#EXTINF:0,MBC 2
-http://89.248.171.141/ts60/ch1246/index.m3u8?v=1548652116
-#EXTINF:0,MBC 3
-http://89.248.171.141/ts60/ch1247/index.m3u8?v=1548652116
-#EXTINF:0,MBC 4
-http://89.248.171.141/ts60/ch1245/index.m3u8?v=1548652116
-#EXTINF:0,MBC Action
-http://89.248.171.141/ts60/ch1252/index.m3u8?v=1548652116
-#EXTINF:0,MBC Bollywood
-http://89.248.171.141/ts60/ch1253/index.m3u8?v=1548652116
-#EXTINF:0,MBC Drama
-http://89.248.171.141/ts60/ch1248/index.m3u8?v=1548652116
-#EXTINF:0,MBC Masr
-http://89.248.171.141/ts60/ch1268/index.m3u8?v=1548652116
-#EXTINF:0,MBC Max
-http://89.248.171.141/ts60/ch1254/index.m3u8?v=1548652116
+#EXTINF:-1,OSN KIDS HD
+http://hbox.cdnss.com/aga9y9/9hbkjg/1002.ts
+#EXTINF:-1,OSN MOVIES HD
+http://hbox.cdnss.com/aga9y9/9hbkjg/1003.ts
+#EXTINF:-1,OSN YAHALA DRAMA HD
+http://hbox.cdnss.com/aga9y9/9hbkjg/1004.ts
+#EXTINF:-1,OSN MOVIES DRAMA +2
+http://hbox.cdnss.com/aga9y9/9hbkjg/1005.ts
+#EXTINF:-1,OSN YAHALA HD +2
+http://hbox.cdnss.com/aga9y9/9hbkjg/1006.ts
+#EXTINF:-1,OSN MOVIES DRAMA HD
+http://hbox.cdnss.com/aga9y9/9hbkjg/1007.ts
+#EXTINF:-1,OSN MOVIES +2 HD
+http://hbox.cdnss.com/aga9y9/9hbkjg/1009.ts
+#EXTINF:-1,OSN MOVIES HD
+http://hbox.cdnss.com/aga9y9/9hbkjg/1010.ts
+#EXTINF:-1,OSN YAHALA HD
+http://hbox.cdnss.com/aga9y9/9hbkjg/1012.ts
+#EXTINF:-1,OSN MOVIES PREMIERE
+http://hbox.cdnss.com/aga9y9/9hbkjg/1013.ts
+OSN ARABİC KANALLARI
+
+#EXTINF:-1,OSN KIDS HD
+http://hbox.cdnss.com/aga9y9/9hbkjg/1002.ts
+#EXTINF:-1,OSN MOVIES HD
+http://hbox.cdnss.com/aga9y9/9hbkjg/1003.ts
+#EXTINF:-1,OSN YAHALA DRAMA HD
+http://hbox.cdnss.com/aga9y9/9hbkjg/1004.ts
+#EXTINF:-1,OSN MOVIES DRAMA +2
+http://hbox.cdnss.com/aga9y9/9hbkjg/1005.ts
+#EXTINF:-1,OSN YAHALA HD +2
+http://hbox.cdnss.com/aga9y9/9hbkjg/1006.ts
+#EXTINF:-1,OSN MOVIES DRAMA HD
+http://hbox.cdnss.com/aga9y9/9hbkjg/1007.ts
+#EXTINF:-1,OSN MOVIES +2 HD
+http://hbox.cdnss.com/aga9y9/9hbkjg/1009.ts
+#EXTINF:-1,OSN MOVIES HD
+http://hbox.cdnss.com/aga9y9/9hbkjg/1010.ts
+#EXTINF:-1,OSN YAHALA HD
+http://hbox.cdnss.com/aga9y9/9hbkjg/1012.ts
+#EXTINF:-1,OSN MOVIES PREMIERE
+http://hbox.cdnss.com/aga9y9/9hbkjg/1013.ts
+
+#EXTINF:-1,osn action
+http://78.46.91.39/633/650
+#EXTINF:-1,osn افلام1
+http://78.46.91.39/691/330
+#EXTINF:-1,osn action2
+http://78.46.91.39/668/650
+#EXTINF:-1,osn افلام
+http://78.46.91.39/689/650
+#EXTINF:-1,osn BoxOffice 1
+http://78.46.91.39/662/650
+#EXTINF:-1,مصارعه osn
+http://78.46.91.39/687/650
+#EXTINF:-1,osn Yahala
+http://78.46.91.39/671/650
+#EXTINF:-1,osn Cinema 2
+http://78.46.91.39/628/650
+#EXTINF:-1,osn افلام5
+http://78.46.91.39/695/650
+#EXTINF:-1,osn BoxOffice 2
+http://78.46.91.39/663/650
+#EXTINF:-1,osn sport
+http://78.46.91.39/667/650
+#EXTINF:-1,osn Yahala Shabab
+http://78.46.91.39/672/650
+#EXTINF:-1,osn Cinema 1
+http://78.46.91.39/627/650
+#EXTINF:-1,osn Premier2
+http://78.46.91.39/669/650
+#EXTINF:-1,osn Drama
+http://78.46.91.39/673/650
+#EXTINF:-1,osn Premier
+http://78.46.91.39/630/650
+#EXTINF:-1,osn On Demand
+http://78.46.91.39/678/650
+#EXTINF:-1,osn Comedy
+http://78.46.91.39/664/650
+#EXTINF:-1,osn DiscoverID
+http://78.46.91.39/683/650
+#EXTINF:-1,osn NationalGeo
+http://78.46.91.39/681/650
+#EXTINF:-1,osn Fan
+http://78.46.91.39/661/650
+#EXTINF:-1,osn First
+http://78.46.91.39/665/650
+#EXTINF:-1,osn Entertainment
+http://78.46.91.39/684/650
+#EXTINF:-1,osn MusicNow
+http://78.46.91.39/657/650
+#EXTINF:-1,osn MGM
+http://78.46.91.39/679/650
+#EXTINF:-1,osn Festival
+http://78.46.91.39/651/650
+#EXTINF:-1,osn JimJamKids
+http://78.46.91.39/676/650
+#EXTINF:-1,osn Cinema1
+http://78.46.91.39/627/650
