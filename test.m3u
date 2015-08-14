@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0,MBC 1
+http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=mbc1
 #EXTINF:0, MBC ACTION
 http://63.237.48.3/ios/MBC_ACTION/MBC_ACTION.m3u8
 #EXTINF:0, MBC MAX
