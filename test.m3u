@@ -1,8 +1,7 @@
 #EXTM3U
-#EXTM3U
 #EXTINF:-1,***HasBahCa IPTV***ARABIC***
 http://bilgidiyari.net/m3u/turkiye.mp4
-#EXTINF:0,Addounia TV
+#EXTINF:-1,Addounia TV
 rtmp://sama-tv.net/live/samatv
 #EXTINF:-1,Al Falstiniah TV
 rtmp://46.43.64.166/flv/flv
@@ -132,30 +131,3 @@ rtmp://82.137.248.16/Snews/SnewsLive2
 rtmp://82.137.248.20/Talaqie/TalaqieLive1
 #EXTINF:-1,Z ***HasBahCa IPTV***
 http://bilgidiyari.net/m3u/turkiye.mp4
-
-EXTINF:-1,AR_beINSport1HD,
-http://178.33.88.129:888/udp/239.102.0.4:1234
-EXTINF:-1,AR_beINSport2HD,
-http://178.33.88.129:888/udp/239.102.0.2:1234
-EXTINF:-1,AR_beINSport3HD,
-http://bit.ly/1gUqMa3
-EXTINF:-1,AR_beINSport4HD,
-http://178.33.88.129:888/udp/239.102.0.5:1234
-EXTINF:-1,AR_beINSport5HD,
-http://178.33.88.129:888/udp/239.102.0.6:1234
-EXTINF:-1,:AR_beINSport6HD,
-http://178.33.88.129:888/udp/239.102.0.7:1234
-EXTINF:-1,AR_beINSport7HD,
-http://178.33.88.129:888/udp/239.102.0.8:1234
-EXTINF:-1,AR_beINSport8HD,
-http://178.33.88.129:888/udp/239.102.0.9:1234
-EXTINF:-1,AR_beINSport9HD,
-http://178.33.88.129:888/udp/239.102.0.10:1234
-EXTINF:-1,AR_beINSport10HD,
-http://178.33.88.129:888/udp/239.102.0.11:1234
-EXTINF:-1,FR_beINSport1
-http://178.33.88.129:888/udp/239.102.0.15:1234
-EXTINF:-1,FR_beINSport2
-http://178.33.88.129:888/udp/239.102.0.16:1234
-EXTINF:-1,FR_beINSport3
-http://178.33.88.129:888/udp/239.102.0.17:1234
