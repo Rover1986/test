@@ -2,7 +2,7 @@
 #EXTM3U
 #EXTINF:-1,***HasBahCa IPTV***ARABIC***
 http://bilgidiyari.net/m3u/turkiye.mp4
-#EXTINF:-1,Addounia TV
+#EXTINF:0,Addounia TV
 rtmp://sama-tv.net/live/samatv
 #EXTINF:-1,Al Falstiniah TV
 rtmp://46.43.64.166/flv/flv
